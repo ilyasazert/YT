@@ -318,6 +318,8 @@ margin-bottom: 10px;
 .new-test{
     display: flex;
     align-items: center;
+    font-family: Roboto, Arial;
+    font-size: 14px;
 }
 
 .video-maker{
