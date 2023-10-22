@@ -90,6 +90,7 @@ body {
   .thumbnail{
     border-radius: 10px;
     width: 100%;
+    cursor: pointer; 
    
 
   }
@@ -97,6 +98,7 @@ body {
   .thumbnail-s{
     position: relative;
     margin-bottom: 12px;
+    cursor: pointer; 
   }
 
   .video-time{
@@ -110,6 +112,7 @@ body {
     right: 5px;
     border-radius: 4px;
     padding: 2px;
+    cursor: pointer; 
  
 
 
@@ -122,6 +125,7 @@ body {
     margin-top: 0;
     font-weight: 500;
     margin-bottom: 10px;
+    cursor: pointer; 
 
 }
 
@@ -327,6 +331,7 @@ margin-bottom: 10px;
     font-size: 14px;
     margin: 0px 4px 0px 0px;
     color: #606060;
+    cursor: pointer; 
 
 
 }
@@ -357,6 +362,7 @@ margin-bottom: 10px;
     font-weight: 400;
     justify-content: left;
     margin-left: 10px;
+    cursor: pointer; 
 
 }
 
@@ -373,6 +379,7 @@ margin-bottom: 10px;
     font-size: 16px;
     font-weight: 500;
     margin: 10px 4px 0px 0px;
+    cursor: pointer; 
  
 }
 
