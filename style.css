@@ -233,10 +233,6 @@ body {
   }
 
 
-
-
-
-
   .search-icon {
     height: 25px;
   }
@@ -371,6 +367,7 @@ margin-bottom: 10px;
 .th{
     border-radius: 10px;
     width: 100%;
+    cursor: pointer;
     
 }
 
