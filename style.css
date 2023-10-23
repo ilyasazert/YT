@@ -290,7 +290,6 @@ margin-bottom: 10px;
 
 .youtube-logo{
 
-
     cursor: pointer;
     height: 20px;
     
@@ -348,8 +347,7 @@ margin-bottom: 10px;
     
 }
 
-shorts-th{
-    cursor: pointer;
+
 
 .shorts{
     font-family: Roboto, Arial;
@@ -358,7 +356,6 @@ shorts-th{
     font-weight: 400;
     justify-content: left;
     margin-left: 10px;
-
 
 }
 
@@ -387,5 +384,6 @@ shorts-th{
     color: #606060;
 }
 
-
-
+shorts-th{
+    cursor: pointer;
+}
